@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1709151251 "/Users/leoncelamien/Documents/pass/Assignment_1/report_a1.tex" "report_a1.pdf" "report_a1" 1709151251 2
+  "../template/report.cls" 0 -1 0 ""
+  "/Users/leoncelamien/Documents/pass/Assignment_1/report_a1.tex" 1709151225 8896 c16072264dcce9f5fd3179110229b3ac ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1703356536 7883456 2f79ab82e5a2e1649176d93e92b493a8 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "report_a1.aux" 1709151251 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "report_a1.tex" 1709151225 8896 c16072264dcce9f5fd3179110229b3ac ""
+  (generated)
+  "report_a1.aux"
+  "report_a1.log"
+  "report_a1.pdf"
+  (rewritten before read)
